@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">É um sistema para cadastrar e gerar ordens de serviços para uma assistência técnica de computadores, celulares, notebooks e demais periféricos.</p>
+<p align="left">Sistema para cadastrar e gerar ordens de serviços para uma assistência técnica de computadores, celulares, notebooks e demais periféricos.</p>
 
 ###
 
